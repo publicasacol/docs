@@ -1,23 +1,20 @@
-# Nextra Docs Template 
+# [publicasa docs](https://docs.publicasa.com.co)
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+The official website for [publicasa](https://publicasa.com.co/).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+The project uses [pnpm](https://pnpm.io), [Nextra](https://nextra.vercel.app). To develop it locally, clone this repository and run the following command to start the local dev server:
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+```bash
+pnpm install
+pnpm dev
+```
 
-## Quick Start
+And visit `localhost:3000` to preview your changes.
 
-Click the button to clone this repository and deploy it on Vercel:
+## Contributing
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+When making a change, or creating a new page, please make sure to edit all language files. You can simply copy the content of the edited English document (or the edited paragraph) and apply it to other language files. And then, volunteers are welcome to help with any untranslated sections.
 
-## Local Development
+## Contributors
 
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+- Documentation ([@danielcgiraldo](https://github.com/danielcgiraldo))

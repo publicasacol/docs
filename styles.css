@@ -1,0 +1,89 @@
+@tailwind utilities;
+
+body {
+    background-color: #FBFBFD;
+}
+
+html.light img#light-publicasa-logo {
+    display: block;
+}
+
+html.light img#dark-publicasa-logo {
+    display: none;
+}
+
+html.dark img#light-publicasa-logo {
+    display: none;
+}
+
+html.dark img#dark-publicasa-logo {
+    display: block;
+}
+
+.nextra-banner-container {
+    background: linear-gradient(269.68deg, #421175 -5.74%, #7300E9 102.78%) !important;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+.mt-16 {
+  margin-top: 4rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-6 {
+  height: 1.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.tracking-tighter {
+  letter-spacing: -0.05em;
+}
+
+body {
+  background-color: #FBFBFD;
+}
+
+.nextra-banner-container {
+  background: linear-gradient(269.68deg, #421175 -5.74%, #7300E9 102.78%);
+}
+
+@media (min-width: 768px) {
+  .md\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
+}

@@ -1,7 +1,8 @@
 {
     "index": {
         "title": "Inicio",
-        "type": "page"
+        "type": "page",
+        "hidden": true
     },
     "docs": {
         "title": "Docs",

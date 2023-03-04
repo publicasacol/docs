@@ -63,12 +63,12 @@ const config: DocsThemeConfig = {
     logo: (
         <>
             <img
-                src="https://cdn.publicasa.com.co/assets/img/public/logo/docs.png"
+                src="https://cdn.publicasa.com.co/assets/img/public/logo/docs.svg"
                 alt="Publicasa Docs"
                 id="light-publicasa-logo"
             />
             <img
-                src="https://cdn.publicasa.com.co/assets/img/public/logo/docs_negative.png"
+                src="https://cdn.publicasa.com.co/assets/img/public/logo/docs_negative.svg"
                 alt="Publicasa Docs"
                 id="dark-publicasa-logo"
             />
